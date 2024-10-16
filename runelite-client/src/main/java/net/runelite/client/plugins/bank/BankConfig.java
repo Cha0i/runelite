@@ -37,7 +37,7 @@ public interface BankConfig extends Config
 {
 	@ConfigItem(
 		keyName = "showGE",
-		name = "Show Grand Exchange price",
+		name = "Show Grand Exchange price motherfucker",
 		description = "Show grand exchange price total (GE)",
 		position = 1
 	)
